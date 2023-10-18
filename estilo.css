@@ -1,5 +1,5 @@
 .caixa-transicao{
-         width: 100px;
+         width:100px;
          height:100px;
          background-color:#e74c3c;
          transition: transform 1s ease-in-out;
